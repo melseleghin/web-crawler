@@ -1,3 +1,6 @@
+# Melissa Seleghin Leite
+# RA: 23016066
+
 import scrapy
 import csv
 from pymongo import MongoClient
